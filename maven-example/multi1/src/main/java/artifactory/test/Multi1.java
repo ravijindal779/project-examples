@@ -1,7 +1,7 @@
 package artifactory.test;
 
 /**
- * Hello world! changed comment
+ * Hello world! changed comment, 2nd change
  */
 public class Multi1 {
     public static void main(String[] args) {
